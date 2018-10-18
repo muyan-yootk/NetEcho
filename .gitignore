@@ -4,6 +4,7 @@
 
 *.war
 *.ear
+*.jar
 
 #kdiff3 ignore
 target/
